@@ -4,7 +4,7 @@
 
 ## Education
 							       		
-- M.S., Business Analytics | California State Polytechnic University,Pomona (_August2024)	 			        		
+- M.S., Business Analytics | California State Polytechnic University,Pomona (August2024)	 			        		
 - B.E., Computer Science | Chitkara University  (_August2013_)
 
 ## Work Experience
@@ -12,7 +12,6 @@
 - Develop comprehensive training materials covering data collection methods, analysis techniques, and relevant tools for analysis.
 - Design instructional strategies and learning experiences catering to diverse learning styles and team skill levels. 
 - Analyze training metrics to measure impact, including knowledge retention and job application, through quizzes, assignments, and project evaluations to gauge learners' comprehension and proficiency in marketing data analysis.
-
 
 **Analyst @ KVR Web Tech Pvt. Ltd  (_December 2019 - February2021_)**
 - Collaborated with business stakeholders to develop and analyze key performance metrics, providing actionable insights that informed strategic decision-making and drove business outcomes.
