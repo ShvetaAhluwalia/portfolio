@@ -90,5 +90,5 @@ Skills Used:
 - _Commercial Real Estate Analytics Certification_
 - _Data science Foundations_
 - _Data visualization for Data Analysis and Analytics_
-- _ HubSpot Inbound marketing_
+- _HubSpot Inbound marketing_
 
