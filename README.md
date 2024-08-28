@@ -1,12 +1,12 @@
 #  Data Specialist 
 
 ## Skills
-- (_SQL (CTEs, ETL), Tableau (LOD, Table Calculations), Power BI (DAX, Dataflow)_)
-- (_Python (NumPy, Pandas, Matplotlib), MS Excel (Pivot, HLOOKUP, Solver)_)
-- (_SSIS (Development, Testing, Deployment), AWS(S3, Glue, Kinesis, Athena)_)
-- (_Data Cleansing, Data Transformation, Data Mining, Data Modelling, Data Integration_)
-- (_Data Dashboards,  MicroStrategy,  GIT,  Regression Analysis, Root Cause Analysis_)
-- (_Marketing Research, Web Analytics, Google Looker, GA4, Adobe Analytics_)
+- _SQL (CTEs, ETL), Tableau (LOD, Table Calculations), Power BI (DAX, Dataflow)_
+- _Python (NumPy, Pandas, Matplotlib), MS Excel (Pivot, HLOOKUP, Solver)_
+- _SSIS (Development, Testing, Deployment), AWS(S3, Glue, Kinesis, Athena)_
+- _Data Cleansing, Data Transformation, Data Mining, Data Modelling, Data Integration_
+- _Data Dashboards,  MicroStrategy,  GIT,  Regression Analysis, Root Cause Analysis_
+- _Marketing Research, Web Analytics, Google Looker, GA4, Adobe Analytics_
 
 ## Education
 							       		
@@ -37,7 +37,7 @@
 
  **AI Strategies in Retail**
 
-Developed an AI-powered Title and Description Generator fine-tuned with ChatGPT to assist small retailers in enhancing their marketing strategies. The tool automated the creation of compelling product titles and descriptions, which significantly improved visibility and conversion rates on eCommerce platforms such as Shopify and WooCommerce.
+Developed an AI-powered Title and Description Generator fine-tuned with ChatGPT to assist small retailers in enhancing their marketing strategies. The tool automated the creation of compelling product titles and descriptions, significantly improving visibility and conversion rates on eCommerce platforms such as Shopify and WooCommerce.
 
 Skills Used:
 - Machine Learning and Natural Language Processing (NLP): Applied NLP techniques to fine-tune the ChatGPT model for generating engaging and SEO-friendly product descriptions.
@@ -85,10 +85,10 @@ Skills Used:
 - AWS Services: Leveraged AWS S3, Athena, and PySpark and libraries such as Pandas, NumPy, sci-kit-learn, and Matplotlib for data analysis, modeling, and visualization.
 
 ## Certification & License
-- (_Fundamentals of Analytics_)
-- (_Planning Large Scale Data Migrations to AWS_)
-- ( _Commercial Real Estate Analytics Certification_)
-- (_Data science Foundations_ )
-- (_Data visualization for Data Analysis and Analytics_)
-- (_ HubSpot Inbound marketing_)
+- _Fundamentals of Analytics_
+- _Planning Large Scale Data Migrations to AWS_
+- _Commercial Real Estate Analytics Certification_
+- _Data science Foundations_
+- _Data visualization for Data Analysis and Analytics_
+- _ HubSpot Inbound marketing_
 
