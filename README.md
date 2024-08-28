@@ -83,3 +83,12 @@ Skills Used:
 - Data Preprocessing: Cleaned and prepared data for analysis, handling missing values, and balancing class distribution to improve model performance.
 - Feature Engineering: Created new features from existing data to improve the model's predictive power.
 - AWS Services: Leveraged AWS S3, Athena, and PySpark and libraries such as Pandas, NumPy, sci-kit-learn, and Matplotlib for data analysis, modeling, and visualization.
+
+## Certification & License
+- (_Fundamentals of Analytics_)
+- (_Planning Large Scale Data Migrations to AWS_)
+- ( _Commercial Real Estate Analytics Certification_)
+- (_Data science Foundations_ )
+- (_Data visualization for Data Analysis and Analytics_)
+- (_ HubSpot Inbound marketing_)
+
