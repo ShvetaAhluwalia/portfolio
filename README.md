@@ -1,6 +1,6 @@
 # Data Specialist 
 
-#### Technical Skills:  SQL,SSIS, AWS, Kensis, Glue, Redshift, Python, Tableau, PowerBI, WebAnalytics, Adobe Analytics
+#### Technical Skills:  SQL, SSIS, AWS, Kensis, Glue, Redshift, Python, Tableau, PowerBI, web analytics, Adobe Analytics
 
 ## Education
 							       		
