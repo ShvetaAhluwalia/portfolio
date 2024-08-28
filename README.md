@@ -1,10 +1,16 @@
-# Data Specialist 
+#  Data Specialist 
 
-#### Technical Skills:  SQL, SSIS, AWS, Kensis, Glue, Redshift, Python, Tableau, PowerBI, web analytics, Adobe Analytics
+## Skills
+- (_SQL (CTEs, ETL), Tableau (LOD, Table Calculations), Power BI (DAX, Dataflow)_)
+- (_Python (NumPy, Pandas, Matplotlib), MS Excel (Pivot, HLOOKUP, Solver)_)
+- (_SSIS (Development, Testing, Deployment), AWS(S3, Glue, Kinesis, Athena)_)
+- (_Data Cleansing, Data Transformation, Data Mining, Data Modelling, Data Integration_)
+- (_Data Dashboards,  MicroStrategy,  GIT,  Regression Analysis, Root Cause Analysis_)
+- (_Marketing Research, Web Analytics, Google Looker, GA4, Adobe Analytics_)
 
 ## Education
 							       		
-- M.S., Business Analytics | California State Polytechnic University,Pomona (August2024)	 			        		
+- M.S., Business Analytics | California State Polytechnic University, Pomona (_August 2024_)	 			        		
 - B.E., Computer Science | Chitkara University  (_August2013_)
 
 ## Work Experience
