@@ -4,6 +4,10 @@ I am Shveta, a dedicated data enthusiast passionate about the power of data to d
 My expertise in database management and ETL processes enables me to efficiently manage complex datasets, while my proficiency in Tableau helps me craft compelling visual narratives that inform decision-making. I hold a Master's degree in Business Analytics, equipping me with a deep understanding of how data-driven strategies can enhance business outcomes. With over two years of experience as a Marketing and Social Media Analyst, I have developed a keen analytical mindset and honed my skills in building scalable data solutions. I am eager to contribute my expertise to a role as a Data Engineer, where I can help organizations harness the full potential of their data for innovation and success.
 
 ###Education
+Master of Science - Business Analytics   California State Polytechnic University, Pomona (August 2013)
+
+Bachelor of Engineering - Computer Science  Chitkara University (August 2024)
+                                                                             
 
 ###Experience
 
