@@ -35,6 +35,8 @@
 
 ##Project
 
+####link: https://github.com/ShvetaAhluwalia/Projects
+
  **AI Strategies in Retail**
 
 Developed an AI-powered Title and Description Generator fine-tuned with ChatGPT to assist small retailers in enhancing their marketing strategies. The tool automated the creation of compelling product titles and descriptions, significantly improving visibility and conversion rates on eCommerce platforms such as Shopify and WooCommerce.
