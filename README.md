@@ -33,9 +33,9 @@
 - Produced, edited, and proofread text content for websites and blogs, managing social media platforms.
 - Developed custom WordPress plug-ins to enhance digital capabilities and address business needs.
 
-##Project
+## Project
 
-####link: https://github.com/ShvetaAhluwalia/Projects
+#### link: https://github.com/ShvetaAhluwalia/Projects
 
  **AI Strategies in Retail**
 
